@@ -5,7 +5,7 @@
 - **Ngày bắt đầu:** 2026-10-17
 - **Mức tự đánh giá:** Căn bản (chưa chẩn đoán chi tiết)
 - **Giai đoạn:** 0 — Khởi động và chẩn đoán
-- **Mục tiêu gần nhất:** hoàn thành buổi chẩn đoán đầu tiên và xây thói quen ghi nhật ký.
+- **Mục tiêu gần nhất:** củng cố nhịp chấm dôi ở một ngày khác hoặc bằng recording, sau đó chuyển sang đảo phách và ứng dụng vào melody/riff.
 - **Thời lượng thực tế mỗi ngày:** Chưa ghi nhận
 - **Thiết bị/đàn:** Chưa ghi nhận
 
@@ -23,6 +23,7 @@
 |---|---|---|---|
 | Tư thế, cầm đàn/pick, lên dây | Chưa đánh giá | — | Chẩn đoán Buổi 1 |
 | Giữ nhịp với metronome | Chưa đánh giá | — | Chẩn đoán Buổi 1 |
+| Đọc nốt đen chấm dôi | Dùng được (recording đã gửi) | Chơi `dau-cham-doi-melody.musicxml` ở 132 BPM; `recordings/dau-cham-doi.m4a`, 2026-10-17 | Nghe đối chiếu recording và xác minh ở ngày khác |
 | Tên dây và nốt trên cần đàn | Chưa đánh giá | — | Chẩn đoán Buổi 1 |
 | Open chords / power chords | Chưa đánh giá | — | Chẩn đoán Buổi 1 |
 | Alternate picking và âm sạch | Chưa đánh giá | — | Chẩn đoán Buổi 1 |
@@ -38,4 +39,4 @@
 | Ngày | Buổi | Nội dung | Bằng chứng | Quyết định tiếp theo |
 |---|---:|---|---|---|
 | 2026-10-17 | 0 | Khởi tạo project | Bộ tài liệu nền tảng | Làm Buổi 1 chẩn đoán |
-
+| 2026-10-17 | 1 | Nốt đen chấm dôi | Chơi bản ký âm chuẩn ở 132 BPM + recording `dau-cham-doi.m4a` | Nghe đối chiếu, rồi học đảo phách |
